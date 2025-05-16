@@ -1,0 +1,12 @@
+# Core dependencies
+python-dotenv==1.0.0  # для работы с переменными окружения
+pyTelegramBotAPI==4.14.1  # для работы с Telegram Bot API
+
+# Audio processing
+requests==2.31.0  # для HTTP запросов к API
+aiohttp==3.9.1  # для асинхронных HTTP запросов
+pydub==0.25.1  # для работы с аудио файлами
+certifi==2024.2.2  # для SSL сертификатов
+
+# Optional but recommended
+python-magic==0.4.27  # для определения MIME-типов файлов 
